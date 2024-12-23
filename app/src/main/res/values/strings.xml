@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">WeatherApplication</string>
+    <string name="search_location">Search Location</string>
+
+    <string name="no_city_selected">No City Selected</string>
+    <string name="please_search_city">Please Search For A City</string>
+
+    <string name="connection_not_found">Connection not found, please try again.</string>
+
+    <string name="recently_viewed">Recently Viewed</string>
+    <string name="last_updated">Last Updated: </string>
+
+    <string name="status_humidity">Humidity</string>
+    <string name="status_uv">UV</string>
+    <string name="status_feels_like">Feels Like</string>
+
+    <string name="format_temperature_f">%d\u00B0</string>
+    <string name="format_temperature_c">\u00B0%d</string>
+    <string name="format_percentage">%d%%</string>
+    <string name="format_int">%d</string>
+    <string name="format_last_updated">Last Updated: %s</string>
+</resources>
