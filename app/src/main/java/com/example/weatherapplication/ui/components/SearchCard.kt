@@ -28,6 +28,7 @@ import coil.request.ImageRequest
 import com.example.weatherapplication.R
 import com.example.weatherapplication.data.model.Current
 import com.example.weatherapplication.data.model.Location
+import com.example.weatherapplication.ui.theme.PoppinsFontMedium
 
 @Composable
 fun SearchCard(

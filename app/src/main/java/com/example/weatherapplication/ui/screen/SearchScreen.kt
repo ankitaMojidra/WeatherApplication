@@ -18,7 +18,7 @@ import androidx.compose.ui.unit.sp
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import androidx.lifecycle.viewmodel.compose.viewModel
 import com.example.weatherapplication.ui.components.HistoryCard
-import com.example.weatherapplication.ui.components.PoppinsFontSemiBold
+import com.example.weatherapplication.ui.theme.PoppinsFontSemiBold
 import com.example.weatherapplication.R
 import com.example.weatherapplication.viewmodel.LocationSearchViewModel
 

@@ -44,9 +44,7 @@ data class Current(
     val gust_kph: Double
 ) {
     fun getRoundedTempF(): Int = temp_f.roundToInt()
-    fun getRoundedTempC(): Int = temp_c.roundToInt()
     fun getRoundedFeelsLikeF(): Int = feelslike_f.roundToInt()
-    fun getRoundedTFeelsLikeC(): Int = feelslike_c.roundToInt()
     fun getRoundedUV(): Int = uv.roundToInt()
 }
 

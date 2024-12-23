@@ -25,7 +25,7 @@ import androidx.lifecycle.viewmodel.compose.viewModel
 import coil.compose.AsyncImage
 import coil.request.CachePolicy
 import coil.request.ImageRequest
-import com.example.weatherapplication.ui.components.PoppinsFontSemiBold
+import com.example.weatherapplication.ui.theme.PoppinsFontSemiBold
 import com.example.weatherapplication.ui.components.WeatherCard
 import com.example.weatherapplication.R
 import com.example.weatherapplication.viewmodel.LocationSearchViewModel

@@ -27,6 +27,8 @@ import coil.request.CachePolicy
 import coil.request.ImageRequest
 import com.example.weatherapplication.database.WeatherLocation
 import com.example.weatherapplication.R
+import com.example.weatherapplication.ui.theme.PoppinsFontLight
+import com.example.weatherapplication.ui.theme.PoppinsFontMedium
 
 @Composable
 fun HistoryCard(

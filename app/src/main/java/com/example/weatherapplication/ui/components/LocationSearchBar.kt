@@ -15,6 +15,7 @@ import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.example.weatherapplication.R
+import com.example.weatherapplication.ui.theme.PoppinsFontRegular
 
 @Composable
 fun LocationSearchBar(

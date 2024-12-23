@@ -18,6 +18,8 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.example.weatherapplication.R
 import com.example.weatherapplication.data.model.Current
+import com.example.weatherapplication.ui.theme.PoppinsFontRegular
+import com.example.weatherapplication.ui.theme.PoppinsFontSemiBold
 
 @Composable
 fun WeatherCard(
